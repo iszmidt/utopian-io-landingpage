@@ -1,32 +1,32 @@
 {
   "nav": {
-    "rewards": "Rewards",
-    "rules": "Rules",
+    "rewards": "Recompensas",
+    "rules": "Regras",
     "moderators": "Moderators",
     "faq": "FAQ",
     "blog": "Blog",
-    "signup": "Sign Up",
-    "login": "Log In"
+    "signup": "Cadastre-se",
+    "login": "Entrar"
   },
   "header": {
     "text1": "Utopian.io",
-    "text2": "Open Source Economy",
-    "text3": "Earn rewards by contributing to your<br>favorite Open Source projects!"
+    "text2": "Economia Open Source",
+    "text3": "Ganhe recompensas por contribuir com seus<br>projetos Open Source favoritos!"
   },
-  "intro": "Our modern world is driven by <a href='https://en.wikipedia.org/wiki/Open-source_model'>Open Source</a> software. It runs on every computer, every smartphone or tablet and all your favorite apps would not run without it. It is developed mainly by volunteers and by hobbyists around the world, those geeks among your friends that love their computers more than hanging out with you. Open Source software is free and common property and allows everyone to use it and alter it to their needs. It relies on collective intelligence instead of the standards imposed by superiors. All this work is done for free! Utopian however rewards everyone who contributes to such projects, as long as a certain standard of quality is met.",
+  "intro": "Nosso mundo moderno é movido por software de <a href='https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto'>Codigo Aberto</a>. Ele é utilizado em cada computador, celular ou tablet e todos os seus aplicativos favoritos não funcionariam sem ele. Ele é desenvolvio sobretudo por voluntarios e hobbistas ao redor do mundo, estes seus amigos nerds que amam mais os seus computadores do que sair com você. Software de código aberto é gratuito, de propriedade comum e permite que qualquer um o use ou altere conforme suas necessidades. Ele baseia-se na inteligencia coletiva ao invés de padrões impostos por superiores. Todo este trabalho é feito de graça! O Utopian no entando recompensa todos aqueles que contribuirem com estes projetos, contanto que haja um certo padrão de qualidade.",
   "octocat": {
-    "hi": "Hi! I'm Octocat!",
-    "text": "I work at GitHub, as a Mascot! It's a very great place to be. We are a world-spanning community of enthusiasts and volunteers, working together on thousands of cool projects. <b>Utopian.io</b> rewards you for making contributions to Open Source projects, like fixing bugs, translating texts, writing documentation or sharing good ideas and more.",
-    "visit": "Visit GitHub.com!"
+    "hi": "Olá! Eu me chamo Octocat!",
+    "text": "Eu trabalho no GitHub, como um mascote! É um otimo lugar para se estar. Nós somos uma comunidade global de voluntarios e entusiastas, trabalhando juntos em milhares de projetos interessantes. <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas ideas e muito mais.",
+    "visit": "Visite o GitHub"
   },
   "projects": {
-    "headline": "Choose a project..."
+    "headline": "Escolha um projeto..."
   },
   "contribute": {
-    "headline": "...and contribute!",
+    "headline": "...e comece a contribuir!",
     "suggestions": {
       "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor feature requests and help improve a project."
+      "text": "Everything starts with an idea. Share your ideas or minor funcionalidades requests and help improve a project."
     },
     "subprojects": {
       "headline": "Sub-Projects",
