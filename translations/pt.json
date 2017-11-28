@@ -16,7 +16,7 @@
   "intro": "Nosso mundo moderno é movido por software de <a href='https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto'>Codigo Aberto</a>. Ele é utilizado em cada computador, celular ou tablet e todos os seus aplicativos favoritos não funcionariam sem ele. Ele é desenvolvio sobretudo por voluntarios e hobbistas ao redor do mundo, estes seus amigos nerds que amam mais os seus computadores do que sair com você. Software de código aberto é gratuito, de propriedade comum e permite que qualquer um o use ou altere conforme suas necessidades. Ele baseia-se na inteligencia coletiva ao invés de padrões impostos por superiores. Todo este trabalho é feito de graça! O Utopian no entando recompensa todos aqueles que contribuirem com estes projetos, contanto que haja um certo padrão de qualidade.",
   "octocat": {
     "hi": "Olá! Eu me chamo Octocat!",
-    "text": "Eu trabalho no GitHub, como um mascote! É um otimo lugar para se estar. Nós somos uma comunidade global de voluntarios e entusiastas, trabalhando juntos em milhares de projetos interessantes. <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas ideas e muito mais.",
+    "text": "Eu trabalho no GitHub, como mascote! É um otimo lugar para se estar. Nós somos uma comunidade global de voluntarios e entusiastas, trabalhando juntos em milhares de projetos interessantes. <b>Utopian.io</b> recompensa você por suas contribuições com projetos Open Source, como corrigir bugs, traduzir textos, escrever documentação, compartilhar suas ideas e muito mais.",
     "visit": "Visite o GitHub"
   },
   "projects": {
@@ -25,16 +25,16 @@
   "contribute": {
     "headline": "...e comece a contribuir!",
     "suggestions": {
-      "headline": "Suggestions",
-      "text": "Everything starts with an idea. Share your ideas or minor funcionalidades requests and help improve a project."
+      "headline": "Sugestões",
+      "text": "Tudo começa com uma ideia. Compartilhe suas ideias ou sugira novas funcionalidades e ajude a aprimorar um projeto existente."
     },
     "subprojects": {
-      "headline": "Sub-Projects",
-      "text": "Share new and more elaborate features or concepts that you have developed for a project."
+      "headline": "Subprojetos",
+      "text": "Compartilhe funcionalidades mais elaboradas ou novos conceitos que você desenvolveu para um projeto."
     },
     "development": {
-      "headline": "Development",
-      "text": "If you've written code and created pull requests, share your work with the Utopian community."
+      "headline": "Desenvolvimento",
+      "text": "Se você colocou a mão no código e enviou um pull request, compartilhe o seu trabalho com a comunidade do utopian."
     },
     "bughunting": {
       "headline": "Bug Hunting",
