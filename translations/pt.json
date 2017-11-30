@@ -34,11 +34,11 @@
     },
     "development": {
       "headline": "Desenvolvimento",
-      "text": "Se você colocou a mão no código e enviou um pull request, compartilhe o seu trabalho com a comunidade do utopian."
+      "text": "Se você colocou a mão no código e enviou um pull request, compartilhe o seu trabalho com a comunidade no utopian."
     },
     "bughunting": {
-      "headline": "Bug Hunting",
-      "text": "Help developers find and fix problems with their software by sharing detailed bug reports."
+      "headline": "Caça aos bugs",
+      "text": "Ajude os desenvolvedores a acharem e solucionarem problemas em seus projetos compartilhando relatoriós completos e detalhados dos erros que você econtrou."
     },
     "translation": {
       "headline": "Translation",
